@@ -1,5 +1,6 @@
 # linuxmuster-artwork
-Description
+
+## Description
 
 Original files from ...
 
@@ -8,12 +9,12 @@ Original files from ...
 
 To create your own graphics according to the corporate design of linuxmuster.net, please read the stylesheet in the Wiki.
 
-Credits
+## Credits
 
 VRT network devices for providing the Shape Gallery for LibreOffice/OpenOffice under the license CC BY-SA 3.0
 (https://www.vrt.com.au/downloads/vrt-network-equipment) 
 
-license
+## License
 
 The files will be published under CreativeCommmons BY-SA 4.0. 
 Should other license conditions contradict this due to existing specifications, the valid licenses will be mentioned and highlighted separately.
