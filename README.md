@@ -7,7 +7,7 @@ Original files from ...
 ... graphical images for documentation (see repository linuxmuster-docs) and for use in presentations and other publications.
 ... Presentations.
 
-To create your own graphics according to the corporate design of linuxmuster.net, please read the stylesheet in the [Wiki](https://github.com/linuxmuster/linuxmuster-artwork/wiki/Home/_edit#welcome-to-the-linuxmuster-artwork-wiki).
+To create your own graphics according to the corporate design of linuxmuster.net, please read the stylesheet in the [Wiki](https://github.com/linuxmuster/linuxmuster-artwork/wiki#welcome-to-the-linuxmuster-artwork-wiki).
 
 ## Credits
 
