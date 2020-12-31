@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="645.62305"
-   height="649.26349"
-   viewBox="146 75 313.172 314.93788"
+   width="654.62305"
+   height="658.26349"
+   viewBox="146 75 317.53763 319.30351"
    version="1.1"
    id="svg25"
-   sodipodi:docname="LinboLogoBig.svg"
+   sodipodi:docname="linbo_logo_big.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    inkscape:label="ArrowLeft"
    inkscape:export-filename="/home/dorian/Downloads/LinboBrandedBig.png"
@@ -45,18 +45,18 @@
      showgrid="false"
      units="px"
      inkscape:zoom="0.73588207"
-     inkscape:cx="-18.534668"
-     inkscape:cy="203.5829"
+     inkscape:cx="642.67486"
+     inkscape:cy="207.9259"
      inkscape:window-x="66"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg25"
      showguides="true"
      inkscape:guide-bbox="true"
-     fit-margin-top="0.5"
-     fit-margin-right="0.5"
-     fit-margin-bottom="0.5"
-     fit-margin-left="0.5" />
+     fit-margin-top="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     fit-margin-left="5" />
   <defs
      id="defs2">
     <marker
@@ -100,7 +100,7 @@
   </defs>
   <g
      id="g1069"
-     transform="translate(-59.709186,-81.260908)"
+     transform="translate(-57.526374,-79.078096)"
      style="display:inline"
      inkscape:export-xdpi="400"
      inkscape:export-ydpi="400">
