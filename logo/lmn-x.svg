@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="3cm" height="3cm" viewBox="146 75 55 55" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g id="Hintergrund">
+    <g>
+      <ellipse style="fill: #f59c00; fill-opacity: 1; stroke-opacity: 0; stroke-width: 0.02; stroke: #ffffff" cx="183.925" cy="113.125" rx="6.312" ry="6.312"/>
+      <ellipse style="fill: #f59c00; fill-opacity: 1; stroke-opacity: 0; stroke-width: 0.02; stroke: #ffffff" cx="194.33" cy="123.53" rx="6.311" ry="6.311"/>
+      <ellipse style="fill: #f59c00; fill-opacity: 1; stroke-opacity: 0; stroke-width: 0.02; stroke: #ffffff" cx="163.116" cy="92.316" rx="6.311" ry="6.311"/>
+      <ellipse style="fill: #f59c00; fill-opacity: 1; stroke-opacity: 0; stroke-width: 0.02; stroke: #ffffff" cx="152.711" cy="81.911" rx="6.311" ry="6.311"/>
+      <ellipse style="fill: #f59c00; fill-opacity: 1; stroke-opacity: 0; stroke-width: 0.02; stroke: #ffffff" cx="163.116" cy="113.125" rx="6.311" ry="6.311"/>
+      <ellipse style="fill: #f59c00; fill-opacity: 1; stroke-opacity: 0; stroke-width: 0.02; stroke: #ffffff" cx="152.711" cy="123.53" rx="6.311" ry="6.311"/>
+      <ellipse style="fill: #f59c00; fill-opacity: 1; stroke-opacity: 0; stroke-width: 0.02; stroke: #ffffff" cx="183.925" cy="92.316" rx="6.312" ry="6.312"/>
+      <ellipse style="fill: #f59c00; fill-opacity: 1; stroke-opacity: 0; stroke-width: 0.02; stroke: #ffffff" cx="194.33" cy="81.911" rx="6.311" ry="6.311"/>
+      <ellipse style="fill: #0c2842; fill-opacity: 1; stroke-opacity: 0; stroke-width: 0.02; stroke: #ffffff" cx="173.521" cy="102.72" rx="6.311" ry="6.311"/>
+    </g>
+  </g>
+</svg>
