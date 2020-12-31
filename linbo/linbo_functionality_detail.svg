@@ -6,6 +6,8 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
    version="1.2"
    width="167.29173mm"
@@ -13,10 +15,31 @@
    viewBox="0 0 16729.173 16188.989"
    preserveAspectRatio="xMidYMid"
    xml:space="preserve"
-   id="svg18054"><metadata
+   id="svg18054"
+   sodipodi:docname="linbo_functionality_detail.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1854"
+   inkscape:window-height="1051"
+   id="namedview815"
+   showgrid="false"
+   inkscape:zoom="1.5428182"
+   inkscape:cx="394.32958"
+   inkscape:cy="66.9286"
+   inkscape:window-x="66"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g5532" /><metadata
    id="metadata18058"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata>
  <defs
    class="ClipPathGroup"
    id="defs11345"><marker
@@ -722,6 +745,7 @@
      y="20165.098"
      x="-5557.459"
      id="tspan1841" /></text>
+
 
 
 
@@ -3557,6 +3581,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:282.22219849px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:746.70709229"
      id="tspan2034">Lokaler Datenspeicher</tspan></text>
 
+
 <rect
    style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:26.45833206;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect1845-7"
@@ -3573,6 +3598,7 @@
      x="6677.1304"
      y="10251.777"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:282.222229px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:746.70709229">Lokale Daten</tspan></text>
+
 
 <rect
    style="display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:26.45832825;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3591,6 +3617,7 @@
      y="9765.0244"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:282.22219849px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:746.70703125">2. Betriebssystem</tspan></text>
 
+
 <rect
    style="display:inline;fill:#ff8f00;fill-opacity:1;stroke:none;stroke-width:26.45833206;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect1845-4"
@@ -3607,6 +3634,7 @@
      x="6328.1787"
      y="9302.2812"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:282.222229px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:746.70709229">1. Betriebssystem</tspan></text>
+
 
 <g
    transform="translate(-8241.0781,-2485.6983)"
@@ -3733,6 +3761,7 @@
      y="4764.4565"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.33331299px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-105.83332825px;writing-mode:lr-tb;text-anchor:start;fill:#233c4c;fill-opacity:1;stroke-width:746.70703125">1.</tspan></text>
 
+
 <path
    style="display:inline;fill:#ff8f00;fill-opacity:1;stroke:#ff8f00;stroke-width:25.4529171;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker19769-0)"
    d="m 5658.679,10945.828 c 3453.8397,0 3453.8397,0 3453.8397,0 v 0 0"
@@ -3758,20 +3787,8 @@
      style="fill:#233c4c;fill-opacity:1;stroke-width:746.70715332">3.</tspan></text>
 
 
-</g><text
-   xml:space="preserve"
-   style="font-style:normal;font-weight:normal;font-size:1058.33325195px;line-height:0;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:746.70715332"
-   x="4529.5366"
-   y="13052.785"
-   id="text1870-0-1"><tspan
-     id="tspan1868-7-9"
-     x="4529.5366"
-     y="13052.785"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:564.44445801px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:746.70715332">Festplatte</tspan><tspan
-     x="4529.5366"
-     y="13758.341"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:564.44445801px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:746.70715332"
-     id="tspan3809">der Arbeitststation</tspan></text>
+
+</g>
 
 <text
    xml:space="preserve"
@@ -3787,6 +3804,7 @@
      y="13756.398"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:564.44451904px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:746.70727539"
      id="tspan3809-7">des Servers</tspan></text>
+
 
 <path
    style="display:inline;fill:#ff8f00;fill-opacity:1;fill-rule:evenodd;stroke:#ff8f00;stroke-width:25.4529171;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3806,6 +3824,21 @@
      x="9906.0186"
      y="10408.198">2.</tspan></text>
 
+
+<text
+   xml:space="preserve"
+   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:564.44445801px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:746.70733643;stroke-linejoin:round"
+   x="4661.2583"
+   y="13050.843"
+   id="text1870-0-1-3-3"><tspan
+     sodipodi:role="line"
+     id="tspan855"
+     x="4661.2583"
+     y="13050.843">Festplatte</tspan><tspan
+     sodipodi:role="line"
+     id="tspan857"
+     x="4661.2583"
+     y="13756.398">der Arbeitsstation</tspan></text>
 </g><flowRoot
    transform="matrix(26.458334,0,0,26.458334,237.29346,179.60912)"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
