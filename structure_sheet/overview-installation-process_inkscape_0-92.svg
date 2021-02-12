@@ -29,9 +29,9 @@
      inkscape:window-height="1051"
      id="namedview1453"
      showgrid="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="392.38779"
-     inkscape:cy="1595.8851"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="1764.0365"
+     inkscape:cy="1121.1166"
      inkscape:window-x="66"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -3992,7 +3992,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4001,8 +4001,7 @@
      id="layer3"
      inkscape:label="Graphics"
      style="display:inline"
-     transform="translate(0,174)"
-     sodipodi:insensitive="true">
+     transform="translate(0,174)">
     <g
        aria-label="Import der VMs"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.64583325px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0c2842;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -4626,45 +4625,16 @@
          id="path12424-5-9-51-6-3-5-5-9"
          d="m 28.554754,248.39387 v 3.61749 3.6175"
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#f58220;stroke-width:0.42333332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker22917-5-6-4-9-3-9-4-4)" />
-      <g
-         style="display:inline"
-         id="g56607"
-         transform="translate(8.4995806,-18.481335)">
-        <path
-           id="rect6961-3-5-3-2-9-26"
-           style="display:inline;vector-effect:none;fill:#0c2842;fill-opacity:1;fill-rule:evenodd;stroke:#0c2842;stroke-width:0.66145831;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 103.70343,192.584 H 59.147591 v -7.27604 h 44.555839 z"
-           inkscape:connector-curvature="0" />
-        <path
-           id="rect6961-3-5-3-2-9-26-3-9-4"
-           style="display:inline;vector-effect:none;fill:#0c2842;fill-opacity:1;fill-rule:evenodd;stroke:#0c2842;stroke-width:0.66145837;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 166.35675,192.584 h -44.55583 v -7.27604 h 44.55583 z"
-           inkscape:connector-curvature="0" />
-        <text
-           transform="scale(1.0000685,0.9999315)"
-           id="text6207"
-           y="189.71471"
-           x="124.60341"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.17546391px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.31754637px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           xml:space="preserve"><tspan
-             style="fill:#ffffff;stroke-width:0.26458332"
-             y="189.71471"
-             x="124.60341"
-             id="tspan6205"
-             sodipodi:role="line">... bei KVM oder XCP-ng</tspan></text>
-        <text
-           transform="scale(1.0000685,0.9999315)"
-           id="text6211"
-           y="190.06558"
-           x="68.157631"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.17546391px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.31754637px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           xml:space="preserve"><tspan
-             style="fill:#ffffff;stroke-width:0.26458332"
-             y="190.06558"
-             x="68.157631"
-             id="tspan6209"
-             sodipodi:role="line">... bei PROXMOX</tspan></text>
-      </g>
+      <path
+         inkscape:connector-curvature="0"
+         d="M 112.20301,174.10266 H 67.647172 v -7.27604 h 44.555838 z"
+         style="display:inline;vector-effect:none;fill:#0c2842;fill-opacity:1;fill-rule:evenodd;stroke:#0c2842;stroke-width:0.66145831;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6961-3-5-3-2-9-26" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 174.85633,174.10266 H 130.3005 v -7.27604 h 44.55583 z"
+         style="display:inline;vector-effect:none;fill:#0c2842;fill-opacity:1;fill-rule:evenodd;stroke:#0c2842;stroke-width:0.66145837;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6961-3-5-3-2-9-26-3-9-4" />
       <rect
          y="239.17397"
          x="10.198239"
@@ -4910,8 +4880,7 @@
        inkscape:groupmode="layer"
        id="layer12"
        inkscape:label="de_DE"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <g
          inkscape:groupmode="layer"
          id="layer2"
@@ -7665,6 +7634,146 @@
              id="path38483"
              inkscape:connector-curvature="0" />
         </g>
+        <g
+           aria-label="... bei KVM oder XCP-ng"
+           transform="scale(1.0000685,0.99993151)"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.17546368px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.31754637px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           id="text6207-3-5">
+          <path
+             d="m 133.29611,171.2321 v -0.45727 h 0.37152 v 0.45727 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6214" />
+          <path
+             d="m 134.37258,171.2321 v -0.45727 h 0.37153 v 0.45727 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6216" />
+          <path
+             d="m 135.44906,171.2321 v -0.45727 h 0.37153 v 0.45727 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6218" />
+          <path
+             d="m 138.29744,169.60944 q 0.32708,0 0.46997,0.18418 0.14607,0.181 0.14607,0.64462 0,0.46361 -0.17147,0.64779 -0.17148,0.181 -0.60334,0.181 -0.14925,0 -0.47314,-0.0286 l -0.10797,-0.01 v -2.24506 h 0.34295 v 0.72083 q 0.21911,-0.0953 0.39693,-0.0953 z m -0.15877,1.34957 q 0.25404,0 0.3366,-0.11749 0.0857,-0.12067 0.0857,-0.40646 0,-0.28579 -0.073,-0.40011 -0.0699,-0.11749 -0.23181,-0.11749 -0.15242,0 -0.30484,0.0476 l -0.0508,0.0159 v 0.96534 q 0.17465,0.0127 0.23816,0.0127 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6220" />
+          <path
+             d="m 140.70762,170.94631 0.0889,-0.01 0.006,0.25722 q -0.362,0.073 -0.64144,0.073 -0.35248,0 -0.50808,-0.1937 -0.15242,-0.19371 -0.15242,-0.61922 0,-0.84467 0.68908,-0.84467 0.66684,0 0.66684,0.72718 l -0.0222,0.24769 h -0.9844 q 0.003,0.19688 0.0857,0.28896 0.0826,0.0921 0.30802,0.0921 0.22546,0 0.46362,-0.019 z m -0.19053,-0.62874 q 0,-0.23499 -0.0762,-0.32707 -0.073,-0.0953 -0.25086,-0.0953 -0.17783,0 -0.26039,0.0984 -0.0794,0.0984 -0.0826,0.3239 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6222" />
+          <path
+             d="m 141.50783,171.2321 v -1.58773 h 0.34613 v 1.58773 z m 0,-1.85764 v -0.36518 h 0.34613 v 0.36518 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6224" />
+          <path
+             d="m 144.00057,171.2321 h -0.35248 v -2.17519 h 0.35248 v 0.98122 l 0.32389,-0.0254 0.44457,-0.95581 h 0.40328 l -0.53665,1.09236 0.55888,1.08283 h -0.40963 l -0.46045,-0.90818 -0.32389,0.0222 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6226" />
+          <path
+             d="m 147.02043,169.05691 h 0.36835 l -0.53348,2.17519 h -0.69225 l -0.53348,-2.17519 h 0.36836 l 0.43186,1.864 h 0.15877 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6228" />
+          <path
+             d="m 148.0207,171.2321 v -2.17519 h 0.61286 l 0.48585,1.69887 0.48584,-1.69887 h 0.61604 v 2.17519 h -0.35565 v -1.78461 h -0.0476 l -0.51442,1.6957 h -0.36836 l -0.51442,-1.6957 h -0.0476 v 1.78461 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6230" />
+          <path
+             d="m 152.09799,169.81584 q 0.16512,-0.2064 0.54618,-0.2064 0.38105,0 0.543,0.2064 0.16512,0.20641 0.16512,0.61922 0,0.41281 -0.15877,0.62239 -0.15877,0.20958 -0.54935,0.20958 -0.39059,0 -0.54936,-0.20958 -0.15877,-0.20958 -0.15877,-0.62239 0,-0.41281 0.16195,-0.61922 z m 0.26038,1.03203 q 0.073,0.12702 0.2858,0.12702 0.21275,0 0.28579,-0.12702 0.073,-0.12702 0.073,-0.41599 0,-0.28896 -0.0794,-0.40963 -0.0762,-0.12067 -0.27944,-0.12067 -0.20323,0 -0.28262,0.12067 -0.0762,0.12067 -0.0762,0.40963 0,0.28897 0.073,0.41599 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6232" />
+          <path
+             d="m 155.30838,168.98387 v 2.24823 h -0.34295 v -0.0826 q -0.23181,0.11749 -0.42552,0.11749 -0.31119,0 -0.45726,-0.18735 -0.1429,-0.18735 -0.1429,-0.62874 0,-0.44139 0.15878,-0.64145 0.16194,-0.20005 0.50172,-0.20005 0.11432,0 0.362,0.0413 v -0.66685 z m -0.40011,1.91798 0.054,-0.0222 v -0.93993 q -0.19053,-0.0318 -0.35247,-0.0318 -0.32073,0 -0.32073,0.53348 0,0.29214 0.073,0.40646 0.0762,0.11114 0.23816,0.11114 0.16195,0 0.30802,-0.0572 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6234" />
+          <path
+             d="m 157.17555,170.94631 0.0889,-0.01 0.006,0.25722 q -0.362,0.073 -0.64144,0.073 -0.35248,0 -0.50808,-0.1937 -0.15242,-0.19371 -0.15242,-0.61922 0,-0.84467 0.68908,-0.84467 0.66684,0 0.66684,0.72718 l -0.0222,0.24769 h -0.98439 q 0.003,0.19688 0.0857,0.28896 0.0826,0.0921 0.30802,0.0921 0.22546,0 0.46362,-0.019 z m -0.19053,-0.62874 q 0,-0.23499 -0.0762,-0.32707 -0.073,-0.0953 -0.25086,-0.0953 -0.17783,0 -0.26039,0.0984 -0.0794,0.0984 -0.0826,0.3239 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6236" />
+          <path
+             d="m 157.97576,171.2321 v -1.58773 h 0.34295 v 0.19053 q 0.26992,-0.17465 0.53983,-0.22546 v 0.34613 q -0.27309,0.054 -0.46679,0.13972 l -0.0699,0.0286 v 1.10824 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6238" />
+          <path
+             d="m 160.68442,169.05691 0.4668,0.85737 0.47314,-0.85737 h 0.37153 l -0.64462,1.10506 0.64462,1.07013 h -0.39376 l -0.46679,-0.81927 -0.47632,0.81927 h -0.37153 l 0.6478,-1.05108 -0.6478,-1.12411 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6240" />
+          <path
+             d="m 163.28195,171.26703 q -0.47632,0 -0.64779,-0.26356 -0.1683,-0.26357 -0.1683,-0.8669 0,-0.60334 0.17147,-0.85738 0.17148,-0.25721 0.64462,-0.25721 0.28262,0 0.62239,0.0794 l -0.0127,0.28579 q -0.28579,-0.0508 -0.57158,-0.0508 -0.2858,0 -0.38741,0.17147 -0.10162,0.1683 -0.10162,0.63827 0,0.4668 0.0984,0.63827 0.0984,0.1683 0.38423,0.1683 0.2858,0 0.57794,-0.0476 l 0.01,0.29214 q -0.32708,0.0699 -0.61922,0.0699 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6242" />
+          <path
+             d="m 165.39363,170.55573 h -0.44457 v 0.67637 h -0.35247 v -2.17519 h 0.79704 q 0.73988,0 0.73988,0.73036 0,0.3747 -0.18735,0.57158 -0.18418,0.19688 -0.55253,0.19688 z m -0.44457,-0.30485 h 0.44139 q 0.38106,0 0.38106,-0.46361 0,-0.22229 -0.0921,-0.3239 -0.0921,-0.10162 -0.28897,-0.10162 h -0.44139 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6244" />
+          <path
+             d="m 166.72097,170.5335 v -0.31437 h 0.94946 v 0.31437 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6246" />
+          <path
+             d="m 168.73738,171.2321 h -0.34612 v -1.58773 h 0.34295 v 0.0984 q 0.23181,-0.13337 0.43821,-0.13337 0.31755,0 0.43187,0.181 0.11749,0.17783 0.11749,0.59064 v 0.85102 h -0.34295 v -0.8415 q 0,-0.25721 -0.0572,-0.36517 -0.054,-0.10797 -0.22546,-0.10797 -0.16195,0 -0.31119,0.0635 l -0.0476,0.019 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6248" />
+          <path
+             d="m 171.83028,171.44803 q 0,0.52078 -0.75258,0.52078 -0.362,0 -0.53666,-0.0984 -0.17465,-0.0984 -0.17465,-0.35883 0,-0.11749 0.0572,-0.20323 0.0572,-0.0826 0.18418,-0.181 -0.10479,-0.0699 -0.10479,-0.23181 0,-0.0635 0.0857,-0.2064 l 0.0286,-0.0476 q -0.22864,-0.13655 -0.22864,-0.47632 0,-0.2858 0.17148,-0.41917 0.17147,-0.13337 0.46362,-0.13337 0.13972,0 0.27626,0.0318 l 0.0476,0.01 0.4922,-0.0127 v 0.27944 l -0.26356,-0.0159 q 0.0857,0.11114 0.0857,0.26039 0,0.31119 -0.15877,0.43186 -0.1556,0.11749 -0.48902,0.11749 -0.0826,0 -0.13972,-0.0127 -0.0445,0.10796 -0.0445,0.1683 0,0.0572 0.0572,0.0794 0.0603,0.0222 0.28579,0.0254 0.37788,0.003 0.5176,0.10161 0.13972,0.0984 0.13972,0.37153 z m -1.12411,0.0318 q 0,0.11114 0.0889,0.15877 0.0889,0.0476 0.30485,0.0476 0.38423,0 0.38423,-0.2191 0,-0.12385 -0.0699,-0.15878 -0.0667,-0.0318 -0.26992,-0.0349 l -0.31119,-0.019 q -0.0699,0.0572 -0.0984,0.10479 -0.0286,0.0508 -0.0286,0.12067 z m 0.0254,-1.31464 q 0,0.14607 0.0699,0.21593 0.0699,0.0667 0.22546,0.0667 0.1556,0 0.22228,-0.0667 0.0699,-0.0699 0.0699,-0.21593 0,-0.14608 -0.0699,-0.21276 -0.0699,-0.0699 -0.22545,-0.0699 -0.29215,0 -0.29215,0.28262 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6250" />
+        </g>
+        <g
+           aria-label="... bei PROXMOX"
+           transform="scale(1.0000685,0.99993151)"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.17546368px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.31754637px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           id="text6211-5-2">
+          <path
+             d="m 76.850335,171.58298 v -0.45727 h 0.371529 v 0.45727 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6253" />
+          <path
+             d="m 77.926812,171.58298 v -0.45727 h 0.371529 v 0.45727 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6255" />
+          <path
+             d="m 79.003289,171.58298 v -0.45727 h 0.371529 v 0.45727 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6257" />
+          <path
+             d="m 81.851673,169.96032 q 0.327073,0 0.469969,0.18417 0.146071,0.181 0.146071,0.64462 0,0.46362 -0.171475,0.6478 -0.171475,0.181 -0.603338,0.181 -0.149247,0 -0.473144,-0.0286 l -0.107966,-0.01 v -2.24505 h 0.34295 v 0.72083 q 0.219107,-0.0953 0.396933,-0.0953 z m -0.158773,1.34957 q 0.254037,0 0.336599,-0.11749 0.08574,-0.12067 0.08574,-0.40646 0,-0.2858 -0.07303,-0.40011 -0.06986,-0.11749 -0.231809,-0.11749 -0.152422,0 -0.304845,0.0476 l -0.05081,0.0159 v 0.96535 q 0.17465,0.0127 0.23816,0.0127 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6259" />
+          <path
+             d="m 84.261847,171.29719 0.08891,-0.01 0.0064,0.25721 q -0.362003,0.073 -0.641444,0.073 -0.352476,0 -0.508074,-0.19371 -0.152422,-0.1937 -0.152422,-0.61921 0,-0.84467 0.689076,-0.84467 0.666847,0 0.666847,0.72718 l -0.02223,0.24768 h -0.984394 q 0.0032,0.19688 0.08574,0.28897 0.08256,0.0921 0.30802,0.0921 0.225457,0 0.463617,-0.019 z m -0.190528,-0.62875 q 0,-0.23498 -0.07621,-0.32707 -0.07304,-0.0953 -0.250861,-0.0953 -0.177826,0 -0.260388,0.0984 -0.07939,0.0984 -0.08256,0.32389 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6261" />
+          <path
+             d="m 85.062062,171.58298 v -1.58773 h 0.346126 v 1.58773 z m 0,-1.85765 v -0.36518 h 0.346126 v 0.36518 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6263" />
+          <path
+             d="m 87.999362,170.9066 h -0.444565 v 0.67638 h -0.352476 v -2.1752 h 0.797041 q 0.739883,0 0.739883,0.73036 0,0.37471 -0.187352,0.57158 -0.184177,0.19688 -0.552531,0.19688 z m -0.444565,-0.30484 h 0.441389 q 0.381056,0 0.381056,-0.46362 0,-0.22228 -0.09209,-0.3239 -0.09209,-0.10161 -0.288968,-0.10161 h -0.441389 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6265" />
+          <path
+             d="m 89.74904,170.80816 v 0.77482 h -0.352476 v -2.1752 h 0.825621 q 0.736707,0 0.736707,0.69226 0,0.46361 -0.355652,0.62874 l 0.358828,0.8542 h -0.387407 l -0.314371,-0.77482 z m 0.847849,-0.70495 q 0,-0.39058 -0.374704,-0.39058 H 89.74904 v 0.79069 h 0.479495 q 0.190528,0 0.279441,-0.10797 0.08891,-0.11114 0.08891,-0.29214 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6267" />
+          <path
+             d="m 92.054422,171.12254 q 0.107966,0.18735 0.41281,0.18735 0.304845,0 0.409635,-0.18418 0.107966,-0.18418 0.107966,-0.61604 0,-0.43504 -0.111141,-0.63192 -0.107966,-0.19688 -0.40646,-0.19688 -0.298493,0 -0.409635,0.19688 -0.111141,0.19688 -0.111141,0.62875 0,0.42868 0.107966,0.61604 z m 1.09871,0.22863 q -0.193703,0.26674 -0.6859,0.26674 -0.492197,0 -0.689075,-0.26674 -0.196879,-0.26992 -0.196879,-0.84467 0,-0.57476 0.196879,-0.8542 0.200054,-0.27945 0.689075,-0.27945 0.489022,0 0.6859,0.27945 0.196879,0.27626 0.196879,0.8542 0,0.57793 -0.196879,0.84467 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6269" />
+          <path
+             d="m 94.207375,169.40778 0.466793,0.85738 0.473144,-0.85738 h 0.37153 l -0.644619,1.10507 0.644619,1.07013 h -0.393758 l -0.466793,-0.81927 -0.476319,0.81927 h -0.37153 l 0.647795,-1.05108 -0.647795,-1.12412 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6271" />
+          <path
+             d="m 96.128528,171.58298 v -2.1752 h 0.612865 l 0.485846,1.69888 0.485845,-1.69888 h 0.61604 v 2.1752 h -0.355652 v -1.78461 h -0.04763 l -0.514426,1.69569 h -0.368353 l -0.514425,-1.69569 h -0.04763 v 1.78461 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6273" />
+          <path
+             d="m 99.523094,171.12254 q 0.107966,0.18735 0.41281,0.18735 0.304846,0 0.409636,-0.18418 0.10796,-0.18418 0.10796,-0.61604 0,-0.43504 -0.11114,-0.63192 -0.10796,-0.19688 -0.406456,-0.19688 -0.298494,0 -0.409635,0.19688 -0.111141,0.19688 -0.111141,0.62875 0,0.42868 0.107966,0.61604 z m 1.098706,0.22863 q -0.1937,0.26674 -0.685896,0.26674 -0.492197,0 -0.689076,-0.26674 -0.196878,-0.26992 -0.196878,-0.84467 0,-0.57476 0.196878,-0.8542 0.200055,-0.27945 0.689076,-0.27945 0.489026,0 0.685896,0.27945 0.19688,0.27626 0.19688,0.8542 0,0.57793 -0.19688,0.84467 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6275" />
+          <path
+             d="m 101.67605,169.40778 0.46679,0.85738 0.47314,-0.85738 h 0.37153 l -0.64462,1.10507 0.64462,1.07013 h -0.39375 l -0.4668,-0.81927 -0.47632,0.81927 h -0.37153 l 0.6478,-1.05108 -0.6478,-1.12412 z"
+             style="fill:#ffffff;stroke-width:0.26458332"
+             id="path6277" />
+        </g>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -9959,15 +10068,14 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Text (edit)"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,174)"
      sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer9"
        inkscape:label="Text (edit) de_DE"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <path
          inkscape:connector-curvature="0"
          id="path16423-5"
@@ -10490,9 +10598,33 @@
            x="87.849922"
            id="tspan7976-7"
            sodipodi:role="line">PROXMOX - Migration</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.17546368px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.31754637px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="133.1024"
+         y="171.2321"
+         id="text6207-3"
+         transform="scale(1.0000685,0.99993151)"><tspan
+           sodipodi:role="line"
+           id="tspan6205-67"
+           x="133.1024"
+           y="171.2321"
+           style="fill:#ffffff;stroke-width:0.26458332">... bei KVM oder XCP-ng</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.17546368px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.31754637px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="76.656631"
+         y="171.58298"
+         id="text6211-5"
+         transform="scale(1.0000685,0.99993151)"><tspan
+           sodipodi:role="line"
+           id="tspan6209-3"
+           x="76.656631"
+           y="171.58298"
+           style="fill:#ffffff;stroke-width:0.26458332">... bei PROXMOX</tspan></text>
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="Text (edit) en_EN"
        id="g8044"
        inkscape:groupmode="layer"
@@ -11019,6 +11151,30 @@
            x="87.849922"
            id="tspan7976-7-1"
            sodipodi:role="line">PROXMOX - Migration</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.17546391px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.31754637px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="133.1024"
+         y="171.2321"
+         id="text6207"
+         transform="scale(1.0000685,0.99993151)"><tspan
+           sodipodi:role="line"
+           id="tspan6205"
+           x="133.1024"
+           y="171.2321"
+           style="fill:#ffffff;stroke-width:0.26458332">... bei KVM oder XCP-ng</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.17546391px;line-height:1.25;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.31754637px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="76.656631"
+         y="171.58298"
+         id="text6211"
+         transform="scale(1.0000685,0.99993151)"><tspan
+           sodipodi:role="line"
+           id="tspan6209"
+           x="76.656631"
+           y="171.58298"
+           style="fill:#ffffff;stroke-width:0.26458332">... bei PROXMOX</tspan></text>
     </g>
   </g>
   <g
